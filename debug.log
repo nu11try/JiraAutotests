@@ -1,0 +1,5 @@
+[0907/151538.264:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0917/141909.248:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0917/141909.248:ERROR:exception_snapshot_win.cc(99)] thread ID 21428 not found in process
+[0917/141909.263:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0917/141909.263:ERROR:exception_snapshot_win.cc(99)] thread ID 11372 not found in process
